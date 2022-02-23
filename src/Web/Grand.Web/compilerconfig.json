@@ -1,0 +1,6 @@
+﻿[
+  {
+    "outputFile": "wwwroot/theme/css/myThem.css",
+    "inputFile": "Themes/myTheme/Content/myThem.scss"
+  }
+]
